@@ -29,6 +29,6 @@ Lastly after this we generate a random password based on the input of the user,
 In the end the password will be generated and displayed on the user screen.
 
 
-Deployedlink
+[Deployedlink](https://zohamumtaz.github.io/password-generator/)
 
-[applicationlink](file:///Users/zohamumtaz/Desktop/javascript/index%20(1).html"passwordgenerator")
+[applicationlink](https://github.com/zohamumtaz/password-generator)
